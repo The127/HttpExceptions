@@ -1,0 +1,12 @@
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\HttpExceptions.deps.json
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\HttpExceptions.dll
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\ref\HttpExceptions.dll
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\HttpExceptions.pdb
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.csproj.AssemblyReference.cache
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.AssemblyInfoInputs.cache
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.AssemblyInfo.cs
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.dll
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\ref\HttpExceptions.dll
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\obj\Release\net6.0\HttpExceptions.pdb

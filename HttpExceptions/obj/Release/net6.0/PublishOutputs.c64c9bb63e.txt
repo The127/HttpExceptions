@@ -1,0 +1,3 @@
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\publish\HttpExceptions.dll
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\publish\HttpExceptions.deps.json
+C:\Users\julia\RiderProjects\HttpExceptions\HttpExceptions\bin\Release\net6.0\publish\HttpExceptions.pdb
